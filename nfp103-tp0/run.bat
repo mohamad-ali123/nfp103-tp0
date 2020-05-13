@@ -1,0 +1,1 @@
+java -cp target/nfp103-tp0-0.0.jar lb.edu.isae.nfp103.tp0.Main
